@@ -1,4 +1,4 @@
-# Synapse-Code 🧠💻
+# Synapse-Code 
 
 Synapse-Code is a Senior AI Project Architect that replaces "guessing" with a scientific, layered cognitive process.
 
